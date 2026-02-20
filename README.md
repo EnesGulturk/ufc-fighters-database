@@ -1,2 +1,1 @@
-# ufc-fighters-database
-UFC FIGHTERS CURRENT DATABASE (20.02.2026)
+Designed and developed by a fight fan, for fight fans. Visit the live platform: fightbasemma.com
